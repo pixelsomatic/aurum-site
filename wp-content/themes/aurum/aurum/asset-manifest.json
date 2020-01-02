@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bdr/wp-content/themes/aurum/static/css/main.chunk.css",
+    "main.js": "/bdr/wp-content/themes/aurum/static/js/main.chunk.js",
+    "main.js.map": "/bdr/wp-content/themes/aurum/static/js/main.chunk.js.map",
+    "runtime-main.js": "/bdr/wp-content/themes/aurum/static/js/bundle.js",
+    "runtime-main.js.map": "/bdr/wp-content/themes/aurum/static/js/bundle.js.map",
+    "static/js/2.chunk.js": "/bdr/wp-content/themes/aurum/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/bdr/wp-content/themes/aurum/static/js/2.chunk.js.map",
+    "index.php": "/bdr/wp-content/themes/aurum/index.php",
+    "precache-manifest.3f1d1884b34b483833b0aa0ca747e3c6.js": "/bdr/wp-content/themes/aurum/precache-manifest.3f1d1884b34b483833b0aa0ca747e3c6.js",
+    "service-worker.js": "/bdr/wp-content/themes/aurum/service-worker.js",
+    "static/css/main.chunk.css.map": "/bdr/wp-content/themes/aurum/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE": "/bdr/wp-content/themes/aurum/static/js/2.chunk.js.LICENSE",
+    "static/media/book.svg": "/bdr/wp-content/themes/aurum/static/media/book.d54a3b09.svg",
+    "static/media/chart.svg": "/bdr/wp-content/themes/aurum/static/media/chart.4b94e9e6.svg",
+    "static/media/gear.svg": "/bdr/wp-content/themes/aurum/static/media/gear.999c3085.svg",
+    "static/media/play.svg": "/bdr/wp-content/themes/aurum/static/media/play.256114b4.svg",
+    "static/media/plus.svg": "/bdr/wp-content/themes/aurum/static/media/plus.fc04cfa2.svg",
+    "static/media/stack.svg": "/bdr/wp-content/themes/aurum/static/media/stack.f76fa13c.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
